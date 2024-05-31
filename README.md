@@ -21,7 +21,7 @@ This project allows you to control a presentation using hand gestures captured b
 
 1. Clone the repository:
   
-   git clone https://github.com/your-username/hand-gesture-presentation.git
+   git clone https://github.com/ultracharan/Smart-Hand-Gestured-Controlled-Presentation.git
    cd hand-gesture-presentation
 
 2. Install the required packages:
